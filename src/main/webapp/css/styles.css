@@ -1,0 +1,160 @@
+body {
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    font-family: 'Merriweather', serif;
+    font-size: 2rem;
+    background-color: #E4F9f5;
+    color: #40514E;
+
+}
+
+
+div {
+    
+}
+
+.top-container {
+    background-color: #E4F9f5;
+    position: relative;
+    padding: 100px;
+    line-height: 2;
+    
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    font-size: 5.62rem;
+    color: #66bfbf;
+   
+    
+    
+}
+
+h2 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5rem;
+    color: #66bfbf;
+    font-weight: normal;
+    margin-left: 16%;
+    text-align: left;
+}
+
+.middle-container {
+    width: 100%;
+    margin: auto;
+}
+
+.bottom-container {
+
+}
+
+.top-cloud {
+    position: absolute;
+    right: 10%;
+    top: 2%;
+
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 75px;
+    bottom: 150px;
+}
+
+.fufa
+{
+    margin-left: 5%;
+    height: 25rem;
+    width: 25rem;
+    float: left;
+    margin-right: 35px;
+}
+
+.omu
+{
+    margin-left: 5%;
+    height: 25rem;
+    width: 25rem;
+    float: left;
+    margin-right: 35px;
+}
+
+.mata
+{
+    margin-right: 5%;
+    height: 25rem;
+    width: 25rem;
+    float: right;
+    margin-left: 35px;
+    
+}
+
+.skill
+{
+    text-align: left;
+}
+
+.skill-row
+{
+    text-align: left;
+}
+
+.profile
+{
+    text-align: left;
+}
+
+.mata-text
+{
+    text-align: right;
+    margin-right: 16%;
+}
+.omu-text
+{
+    text-align: left;
+}
+
+p {
+  margin-top: 2%;
+}
+
+.h2text
+{
+    text-align: center;
+    margin: auto;
+}
+
+.text-top
+{
+    width: 100%;
+    height: 25%
+}
+h3
+{
+    font-family: 'Merriweather', serif;
+     color: #66bfbf;
+     margin-left: 13%;
+}
+.mata-text
+{
+    margin-right: 13%;
+}
+
+.left-text
+{
+    margin-left: 2%;
+}
+
+.contact-me
+{
+    
+    text-align: center;
+    
+}
+
+.bottom
+{
+    margin-top: 8%;
+    margin-right: 13%;
+}
