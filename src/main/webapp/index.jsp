@@ -14,7 +14,7 @@
     <div class="top-container">
         <img class="top-cloud" src="images/omi final cloud.PNG" alt="cloud-img">
         
-    <h1> I' Akshay Pratap Singh</h1>
+    <h1 class="top-text"> I' Akshay Pratap Singh</h1>
     <div class="text-top">
     <h2> Is known to world by many names, however most common one is </h2></div>
     <h2 class="h2text">"Omu ka Fufa"</h2>
