@@ -275,13 +275,9 @@ h3
         
     }
 
-    .family-image-right
+    .family-box
     {
-        width: 300px;
-        height: 300px;
-        margin: 5% auto;
-       
-        
+        text-align: center;
     }
 
     .family-image-left
