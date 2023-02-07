@@ -335,7 +335,7 @@
     
 
 
-    <p>© Copyright OmikaFufa</p>
+    <p>&copy Copyright OmikaFufa</p>
 
   </footer>
 
