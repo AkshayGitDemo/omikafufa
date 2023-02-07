@@ -100,7 +100,7 @@
     </div>
     <div class=" family-box col-lg-8">     
       <h3 class="family-head">Mata</h3>
-      <p class="content">Mata is a IT girl and Omu’s first priority. Fufa comes in free with this her which Omu hates. Mata and Omu’s bond is the motivation behind creation of this website.</p>
+      <p class="content">Mata is a IT girl and Omu`s first priority. Fufa comes in free with this her which Omu hates. Mata and Omu’s bond is the motivation behind creation of this website.</p>
     </div>
     
 </section>
@@ -131,7 +131,7 @@
     </div>
     <div class=" family-box col-lg-8">     
       <h3 class="family-head">Mausa</h3>
-      <p class="content">Mausa is cool manager and Omu’s all time third degree torture receiver, mausa tries too hard to please Omu but receives torture in lieu</p>
+      <p class="content">Mausa is cool manager and Omu`s all time third degree torture receiver, mausa tries too hard to please Omu but receives torture in lieu</p>
     </div>
     
 </section>
@@ -141,7 +141,7 @@
 
     <div class="family-box col-lg-8">
       <h3 class="family-head">Door Ki Mausi</h3>
-      <p class="content">Door ki mausi is Snapchat influencer and fashion diva, Door ki mausi and Omu’s bond is in progress as Omu gets to meet or see her less frequently</p>
+      <p class="content">Door ki mausi is Snapchat influencer and fashion diva, Door ki mausi and Omu`s bond is in progress as Omu gets to meet or see her less frequently</p>
       
     </div>
     <div class="  col-lg-4">     
@@ -161,7 +161,7 @@
     </div>
     <div class=" family-box col-lg-8">     
       <h3 class="family-head">Bua</h3>
-      <p class="content">Kuka bua is from bio stream and what she does is still a mystery. She is Omu’s favourite punching bag and Omu loves pillow fight with kuka bua</p>
+      <p class="content">Kuka bua is from bio stream and what she does is still a mystery. She is Omu`s favourite punching bag and Omu loves pillow fight with kuka bua</p>
     </div>
     
 </section>
@@ -171,7 +171,7 @@
 
     <div class="family-box col-lg-8">
       <h3 class="family-head">Mummy</h3>
-      <p class="content">Mumma is all rounder and Omu’s last priority, when nobody is around Omu goes to mumma or else Omu gives full on attitude to mumma.</p>
+      <p class="content">Mumma is all rounder and Omu`s last priority, when nobody is around Omu goes to mumma or else Omu gives full on attitude to mumma.</p>
       
     </div>
     <div class="  col-lg-4">     
@@ -191,7 +191,7 @@
     </div>
     <div class=" family-box col-lg-8">     
       <h3 class="family-head">Papa</h3>
-      <p class="content">Bhaiya is AM(Assistant Manager) but his life got no AM or PM, he is Omu’s all time favourite but when it comes to work, Omu aas paas b nahi fatakta coz she says papa ka call chal rha h, shhhhh!!</p>
+      <p class="content">Bhaiya is AM(Assistant Manager) but his life got no AM or PM, he is Omu`s all time favourite but when it comes to work, Omu aas paas b nahi fatakta coz she says papa ka call chal rha h, shhhhh!!</p>
     </div>
     
 </section>
