@@ -210,14 +210,14 @@
           <em>Varios Shades of Omu</em>
         </div>
         <div class="carousel-item">
-          <h2 class="testimonial-text">While Omu likes everything, she also got some pet-peeves, most noteceable are Padhai, Mausa & Fufa </h2>
+          <h2 class="testimonial-text">While Omu likes everything, she also got some pet-peeves, most noticeable are Padhai, Mausa & Fufa </h2>
           <img class="testimonial-image" src="images/WhatsApp Image 2023-02-07 at 17.03.15-modified.png" alt="lady-profile"><img class="testimonial-image" src="images/WhatsApp Image 2023-02-07 at 17.03.53-modified.png" alt="lady-profile"><img class="testimonial-image" src="images/WhatsApp Image 2023-02-07 at 17.04.05-modified.png" alt="lady-profile">
           <em>Varios Shades of Omu</em>
         </div>
 
         <div class="carousel-item">
           <h2 class="testimonial-text">Last Year Omu Graduated her pre-school. </h2>
-          <img class="testimonial-image" src="images/" alt="lady-profile">
+          <img class="testimonial-image" src="images/graduation-modified.png" alt="lady-profile">
           <em>Varios Shades of Omu</em>
         </div>
 
