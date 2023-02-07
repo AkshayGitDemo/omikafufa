@@ -4,6 +4,7 @@
 <head>
   <meta charset="utf-8">
   <title>Omu Ka Fufa</title>
+  <link rel="icon" href="favicon.ico">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -259,7 +260,7 @@
               <h3>Economy-Class Ticket</h3>
             </div>
             <div class="card-body">
-              <h2>₹6,000</h2>
+              <h2>&#8377 6,000</h2>
               <p>Economy Class Flight Ticket</p>
               <p>Bus/Train Ticket will be borne by us.</p>
               <p>Cab Charges will be borne by us.</p>
@@ -273,7 +274,7 @@
               <h3>Business-Class Ticket</h3>
             </div>
             <div class="card-body">
-              <h2>₹15,000</h2>
+              <h2>&#8377 15,000</h2>
               <p>Business Class Flight Ticket</p>
               <p>Bus/Train Ticket will be sponsored by you.</p>
               <p>Cab Charges will be sponsored by you.</p>
@@ -287,7 +288,7 @@
               <h3>Premium-Class Ticket</h3>
             </div>
             <div class="card-body">
-              <h2>₹30,000</h2>
+              <h2>&#8377 30,000</h2>
               <p>Premium-Class Ticket</p>
               <p>Our Entire trip will be sponsored by you.</p>
               <p>We Will Love this.</p>
