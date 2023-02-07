@@ -275,6 +275,15 @@ h3
         
     }
 
+    .family-image-right
+    {
+        width: 300px;
+        height: 300px;
+        margin: 5% auto;
+       
+        
+    }
+
     .family-image-left
 {
     width: 300px;
