@@ -100,7 +100,7 @@
     </div>
     <div class=" family-box col-lg-8">     
       <h3 class="family-head">Mata</h3>
-      <p class="content">Mata is a IT girl and Omu`s first priority. Fufa comes in free with this her which Omu hates. Mata and Omu’s bond is the motivation behind creation of this website.</p>
+      <p class="content">Mata is a IT girl and Omu`s first priority. Fufa comes in free with this her which Omu hates. Mata and Omu`s bond is the motivation behind creation of this website.</p>
     </div>
     
 </section>
@@ -110,7 +110,7 @@
 
     <div class="family-box col-lg-8">
       <h3 class="family-head">Mausi</h3>
-      <p class="content">Mausi is a strict manager as well as Omu’s strict teacher. No mercy, when it comes to studying, Omu ki writing inhi ki wajah se samjhane layak ho chuki hai, Omu ki teacher is thankful to mausi </p>
+      <p class="content">Mausi is a strict manager as well as Omu`s strict teacher. No mercy, when it comes to studying, Omu ki writing inhi ki wajah se samjhane layak ho chuki hai, Omu ki teacher is thankful to mausi </p>
       
     </div>
     <div class=" col-lg-4">     
